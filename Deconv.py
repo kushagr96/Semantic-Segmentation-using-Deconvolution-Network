@@ -41,7 +41,7 @@ class Segment(object):
 
     def train(self, train_indices, training_steps=50):
         """
-            Trains the model on data given in path/train.csv
+            Trains the model on data
 
         """
         step_start = 0
